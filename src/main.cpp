@@ -1,3 +1,6 @@
+// Assigment 4
+// Team Members: Debbie Elibe, Tian Yang, Zhizheng Dong
+
 #include "M5Unified.h"
 
 #include <WiFi.h>
